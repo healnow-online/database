@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "treatment": "Acupressure",
+  "alternateNames": "Active Acupressure, Acupresión, Acupression, Acupression Active, Acupression Auriculaire, Acupression Chinoise, Acupression Occidentale,Acupression Passive, Acupression du Pied, Aroma Acupressure, Aromatherapy Acupressure, Auricular Acupressure, Chinese Acupressure, Foot Acupressure, Nei Guan, Neiguan Point Acupressure, P6 Acupressure, Passive Acupressure, San Yin Jiao Acupressure, SP6 Acupressure, Traditional Chinese Acupressure, Western Acupressure",
+  "description": "Used for thousands of years in China, acupressure is based on the same principles as acupuncture to promote relaxation and wellness and to treat disease. Shiatsu is a Japanese form of acupressure.",
+  "descriptionReference": "https://www.webmd.com/balance/qa/what-is-acupressure",
+  "safetyRatingReference": "Acupressure",
+  "adverseReactionReference": "Acupressure",
+  "interactionReference": "Acupressure"
+},{
+  "id": 2,
+  "treament": "Aromatherapy",
+  "alternateNames": "Aroma, Aroma Therapy, Aroma Treatment, Aromaterapia, Aromathérapie, Aromatic Oils, Aromatic Therapy, Essential Oils, Huiles Aromatiques, Huiles Essentielles, Scent therapy, Traitement par les Essences de Plantes",
+  "description": "Aromatherapy is the practice of using essential oils for therapeutic benefit.",
+  "descriptionReference": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/aromatherapy-do-essential-oils-really-work",
+  "safetyRatingReference": "Aromatherapy",
+  "adverseReactionReference": "Aromatherapy",
+  "interactionReference": "Aromatherapy"
+}, {
+  "id": 3,
+  "treament": "Moxibustion",
+  "alternateNames": "Aconite Cake-Separated Moxibustion, Acu-Moxi, Acu-Moxibustion, Angelica-Cake Moxibustion, Bird-Pecking Moxibustion, Chinetsukyu (Japanese), Cake-Separated Mild-Warm Moxibustion, Cake-Separated Moxibustion, Circling Moxibustion, Cone Moxibustion, Cotton Sheet Moxibustion, Crude Herb Moxibustion, Direct Cone Moxibustion, Dogbi (ST35) & Sulan Moxibustion, Drug-Separated Moxibustion, Du-Moxibustion, Dynamic Moxibustion, Electronic Moxibustion, Electrothermal Bian-Stone Moxibustion, Garlic Moxibustion, Ginger-Partitioned Moxibustion, Ginger-Salt-Partitioned Moxibustion, Grain-Shaped Moxibustion, Hand Moxibustion, Hanging Moxibustion, Heat-Sensitive Moxibustion, Herb-Cake Seperated Moxibustion, Herb-Partitioned Spread Moxibustion, Herbal-Moxa Moxibustion, Infrared Laser Moxibustion, Isolated Moxibustion, Isolated-Herbal Moxibustion, Kyutoshin (Japanese), Long Snake Moxibustion, Medicated Thread Moxibustion, Medicated Threads Moxibustion of Zhuang Nationality, Mild Moxibustion, Mild-Warm Moxibustion, Monkshood Cake-Separated Mild-Warm Moxibustion, Moving Moxibustion, Moxa, Okyu (Japanese), Partition-Bran Moxibustion, Partition-Herb Moxibustion, Pecking Moxibustion, Rice-Sized Direct Moxa, Snake Moxibustion, Solar-Term Moxibustion, Sparrow-Pecking Moxibustion, Substance-Partitioned Moxibustion, Suspended Moxibustion, Thin Cotton Moxibustion, Tortoise-Shell Moxibustion, Traditional Box Moxibustion, Warming Moxibustion, Warming Needle Moxibustion , Warming-Cup Moxibustion",
+  "description": "Moxibustion is a form of heat therapy in which dried plant materials called \"moxa\" are burned on or very near the surface of the skin.",
+  "descriptionReference": "https://www.takingcharge.csh.umn.edu/explore-healing-practices/moxibustion",
+  "safetyRatingReference": "Aromatherapy",
+  "adverseReactionReference": "Aromatherapy",
+  "interactionReference": "Aromatherapy"
+
+}]

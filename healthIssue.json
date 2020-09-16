@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "healthIssue": "Dysmenorrhea",
+  "alternateNames": "primary dysmenorrhea, menstrual cramps, menstrual pain, period pain, painful periods",
+  "treatments": "Acupressure, Aromatherapy, Moxibustion",
+  "effectivenessRatingReference":"Dysmenorrhea-Acupressure, Dysmenorrhea-Aromatherapy, Dysmenorrhea-Moxibustion",
+  "description": "Dysmenorrhea is the medical term for painful menstrual periods which are caused by uterine contractions. Primary dysmenorrhea refers to recurrent pain, while secondary dysmenorrhea results from reproductive system disorders. Both can be treated.",
+  "descriptionReference": "https://my.clevelandclinic.org/health/diseases/4148-dysmenorrhea"
+},
+
+
+{
+  "id": 2,
+  "healthIssue": "Migraine",
+  "alternateNames": "migraine headache",
+  "treatments": "Acupuncture, Chiropractic",
+  "description": "A migraine headache is a type of headache that tends to recur and causes moderate to severe pain. The pain is often described as throbbing or pulsing and usually begins on one side of the head.",
+  "descriptionReference": "https://my.clevelandclinic.org/health/diseases/5005-migraine-headaches"
+}, {
+  "id": 3,
+  "healthIssue": "Osteoarthritis",
+  "alternateNames": "degenerative joint disease, degenerative arthritis",
+  "treatments": "Acupuncture, Aquatic exercise, Balneotherapy, Hirudotherapy, Moxibustion, Tai Chi",
+  "description": "Osteoarthritis, also known as degenerative joint disease (DJD), is the most common type of arthritis. Osteoarthritis is more likely to develop as people age.",
+  "descriptionReference": "https://my.clevelandclinic.org/health/diseases/5599-osteoarthritis-what-you-need-to-know"
+}]

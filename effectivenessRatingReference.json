@@ -1,0 +1,25 @@
+[{
+  "healthIssue-treatment": "Dysmenorrhea-Acupressure",
+  "sourceName": "Natural Standard",
+  "sourceBullets": "Works with Harvard Medical, Systematic Review, International Collaboration",
+  "effectivenessClaim": "Acupressure is rated as a likely effective treatment for dysmenorrhea. In one study, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "reference": "URL, link",
+  "URL": "www.healnow.online/effectiveness/acupressure",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/16488895/, https://pubmed.ncbi.nlm.nih.gov/18054724/"
+}, {
+  "healthIssue-treatment": "Dysmenorrhea-Aromatherapy",
+  "sourceName": "Natural Standard",
+  "sourceBullets": "Works with Harvard Medical, Systematic Review, International Collaboration",
+  "effectivenessClaim": "Aromatherapy is rated as a likely effective treatment for dysmenorrhea. In one study, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "reference": "URL, link",
+  "URL": "www.healnow.online/effectiveness/acupressure",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/16488895/, https://pubmed.ncbi.nlm.nih.gov/18054724/"
+}, {
+  "healthIssue-treatment": "Dysmenorrhea-Moxibustion",
+  "sourceName": "Natural Standard",
+  "sourceBullets": "Works with Harvard Medical, Systematic Review, International Collaboration",
+  "effectivenessClaim": "Moxibustion is rated as a likely effective treatment for dysmenorrhea. In one study, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "reference": "URL, link",
+  "URL": "www.healnow.online/effectiveness/acupressure",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/16488895/, https://pubmed.ncbi.nlm.nih.gov/18054724/"
+}]
